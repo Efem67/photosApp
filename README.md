@@ -8,13 +8,13 @@ The application is responsible for saving uploaded photos to the server and thei
 It allows you to view photos stored on the server, delete them and edit their names.
 
 ###### Main screen
-![main screen](https://github.com/Efem67/Crillion/blob/master/1.jpg)
+![main screen](https://github.com/Efem67/photosApp/blob/master/1.jpg)
 
 ###### Gallery
-![main screen](https://github.com/Efem67/Crillion/blob/master/2.jpg)
+![main screen](https://github.com/Efem67/photosApp/blob/master/2.jpg)
 
 ###### Single photo
-![main screen](https://github.com/Efem67/Crillion/blob/master/3.jpg)
+![main screen](https://github.com/Efem67/photosApp/blob/master/3.jpg)
 
 ###### Web app
-![main screen](https://github.com/Efem67/Crillion/blob/master/4.jpg)
+![main screen](https://github.com/Efem67/photosApp/blob/master/4.jpg)
