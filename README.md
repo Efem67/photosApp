@@ -8,13 +8,13 @@ The application is responsible for saving uploaded photos to the server and thei
 It allows you to view photos stored on the server, delete them and edit their names.
 
 ###### Main screen
-![main screen](https://github.com/Efem67/photosApp/blob/master/1.jpg)
+<img src="https://github.com/Efem67/photosApp/blob/master/1.jpg" alt="main screen" width="360" height="705">
 
 ###### Gallery
-![main screen](https://github.com/Efem67/photosApp/blob/master/2.jpg)
+<img src="https://github.com/Efem67/photosApp/blob/master/2.jpg" alt="gallery" width="360" height="705">
 
 ###### Single photo
-![main screen](https://github.com/Efem67/photosApp/blob/master/3.jpg)
+<img src="https://github.com/Efem67/photosApp/blob/master/3.jpg" alt="single photo" width="360" height="705">
 
 ###### Web app
-![main screen](https://github.com/Efem67/photosApp/blob/master/4.jpg)
+<img src="https://github.com/Efem67/photosApp/blob/master/4.jpg" alt="web app" width="360" height="705">
